@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hz5m4jmlg-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hz5m4jmlg-nodejs
